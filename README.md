@@ -4,7 +4,7 @@ Visualizad real data of COVID-19(got form EU website) with Tableau and published
 <br>Note: update everyday
 <br>Tool: Tableau 2020.3
 <br>
-![image]https://raw.githubusercontent.com/wangchan0708/COVID-19_dashboard/main/screenshot.PNG
+![image](https://raw.githubusercontent.com/wangchan0708/COVID-19_dashboard/main/screenshot.PNG)
 <br>
 <br>===================================================
 <br>Build a Dashboard Analyzing Trumps Tweets about COVID-19
