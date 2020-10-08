@@ -11,4 +11,7 @@ Visualizad real data of COVID-19(got form EU website) with Tableau and published
 <br>
 <br>取得美國總統川普的推特後進行關於(COVID-19)視覺化分析
 <br>資料來源:http://www.trumptwitterarchive.com/archive
-<br>最後更新日:2020/10/8
+<br>最後更新日:2020/4/14
+<br>
+![image](https://raw.githubusercontent.com/wangchan0708/COVID-19_dashboard/main/screenshot_Twitter.PNG)
+[online interative dashboard](https://public.tableau.com/profile/yunhan2777#!/vizhome/TrumpTweets_Analysis/TrumpTwitterDashBoard?publish=yes)  
